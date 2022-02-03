@@ -8,4 +8,4 @@
 # Things i love
 * Programming in TypeScript
 * Making peoples live easier through software
-* E2E encryption (You can find my PGP Key [here](https://cdn.hoera.dev/gpg/samuel@hoera.dev.gpg)
+* E2E encryption (You can find my PGP Key [here](https://cdn.hoera.dev/gpg/samuel@hoera.dev.gpg))
