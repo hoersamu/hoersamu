@@ -42,8 +42,8 @@
   <code>
     <a href="https://nextjs.org/" title="Next.js" referrerPolicy="no-referrer" target="_blank">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./icons/nextjs/dark.svg">
-        <img height="30" src="./icons/nextjs/light.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/14295796/186384811-f0aa54f4-1c67-4270-94e4-1ec8addcbb23.svg">
+        <img height="30" src="https://user-images.githubusercontent.com/14295796/186382525-cd884a0b-0431-47d7-87be-efadfc13bf67.svg">
       </picture>
     </a>
   </code>
@@ -74,7 +74,10 @@
   </code>
   <code>
     <a href="https://github.com/" title="GitHub" referrerPolicy="no-referrer" target="_blank">
-      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/14295796/186387264-69660e5f-ff4f-43d6-90f6-c6b9f7abe2d8.svg">
+        <img height="30" src="https://user-images.githubusercontent.com/14295796/186387042-ca54395f-0809-41ec-81bc-d52cd709aba8.svg">
+      </picture>
     </a>
   </code>
   <code>
