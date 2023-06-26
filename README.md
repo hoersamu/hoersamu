@@ -52,4 +52,5 @@ Making people's live easier through software
 <code><a href="https://eslint.org/" title="ESLint" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" /></a></code>
 </div>
 </br>
+
 _This is only a selection of the skills I'm most comfortable with. I'm always interested in trying out new things and learning more skills!_
