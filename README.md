@@ -27,6 +27,7 @@ Making people's live easier through software
 <code><a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS & SASS" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a></code>
 <code><a href="https://developer.mozilla.org/docs/Glossary/HTML5" title="HTML" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a></code>
 <code><a href="https://developer.mozilla.org/docs/Glossary/HTML5" title="HTML" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a></code>
+<code><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="HTML" referrerPolicy="no-referrer" target="_blank"><img  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></a></code>
 </div>
 
 ### Frameworks
