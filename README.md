@@ -14,7 +14,7 @@
 # Things I love
 
 - Programming in TypeScript
-Making people's live easier through software
+- Making people's live easier through software
 - E2E encryption (You can find my PGP Key [here](https://cdn.hoera.dev/gpg/samuel@hoera.dev.gpg))
 
 ## Skills and tools
